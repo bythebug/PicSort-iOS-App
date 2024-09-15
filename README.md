@@ -1,6 +1,6 @@
-# Sort Pic
+# PicSort
 
-**Sort Pic** is an iOS application designed to help you manage and sort your photos efficiently. The app allows you to swipe through your photo library, keeping or deleting photos with ease. It supports multiple filtering categories and provides a smooth, animated swipe experience similar to Tinder.
+**PicSort** is an iOS application designed to help you manage and sort your photos efficiently. The app allows you to swipe through your photo library, keeping or deleting photos with ease. It supports multiple filtering categories and provides a smooth, animated swipe experience similar to Tinder.
 
 ## Features
 
@@ -35,7 +35,7 @@ cd sort-pic
 
 ## Usage
 
-1. **Launch the App**: Open the Sort Pic app on your device or simulator.
+1. **Launch the App**: Open the PicSort app on your device or simulator.
 2. **Select a Category**: Use the segmented control at the bottom of the screen to filter photos. Available categories include:
    - **Today**: Photos taken today.
    - **Yesterday**: Photos taken yesterday.
@@ -54,7 +54,7 @@ cd sort-pic
 
 ## Contributing
 
-We welcome contributions to enhance Sort Pic. To contribute:
+We welcome contributions to enhance PicSort. To contribute:
 
 1. **Fork the Repository**: Click the "Fork" button on GitHub to create your own copy of the repository.
 2. **Create a Branch**: Switch to a new branch for your changes (`git checkout -b feature-branch`).
